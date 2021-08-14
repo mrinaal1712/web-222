@@ -1,0 +1,196 @@
+body{
+
+    margin-left:50px;
+    margin-right:50px;
+    align-content:center;
+    width: 90%;
+    height:100%;
+}
+section{
+max-width: 1100px;
+margin-left: 120px
+}
+#intro{
+
+  background-color:dodgerblue;
+  height:600px;
+}
+img{
+  position:relative;
+  margin-top:140px;
+  margin-left:300px
+}
+
+#name{
+  font-family:"Lucida Console";
+
+  color:white;
+
+  position:absolute;
+  margin-top:-250px;
+  margin-left:600px;
+
+}
+button{
+  border: none;
+ color: white;
+ padding: 16px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ margin: 4px 2px;
+ transition-duration: 0.4s;
+ cursor: pointer;
+
+}
+#Resume{
+  position:absolute;
+  margin-top:300px;
+  margin-left:20px;
+  background-color: white;
+  color: black;
+  border: 2px solid white ;
+}
+
+#Resume:hover {
+  background-color: #4CAF50;
+  border:2px solid #4CAF50;
+  color: white;
+}
+#contact{
+  position:absolute;
+  margin-top:300px;
+  margin-left:160px;
+  background-color: white;
+  color: black;
+  border: 2px solid white ;
+}
+
+#contact:hover {
+  background-color: red;
+  border:2px solid red;
+  color: white;
+}
+
+#honesty{
+  margin-right: 580px
+}
+#title2{
+  position:absolute;
+  margin-top:-50px;
+  margin-left:700px;
+}
+#table{
+  position:absolute;
+  margin-top:-1300px;
+  margin-left:700px;
+}
+p{ padding:15px;
+  color:grey;
+  font-size: 20px;
+}
+th{
+  text-align: left;
+
+}
+tr{
+
+  height:70px;
+}
+td{
+  color:grey;
+  font-size: 20px;
+}
+#about{
+
+   background-color:#EBF4FA;
+margin-top: -20px;
+
+}
+#workTile{
+  position: absolute;
+  margin-left:400px;
+}
+
+#box{
+  position: absolute;
+  padding: 20px;
+  width: 770px;
+    height: 220px;
+    margin-top: 50px;
+
+    box-shadow: 5px 20px 10px 10px #CDCDCD;
+    border: 1px solid rgba(0, 0, 0, .2);
+    background: white;}
+  #box2{
+    position: absolute;
+    padding: 20px;
+    padding-top: 70px;
+    width: 250px;
+      height: 170px;
+      margin-top: 50px;
+      text-align: center;
+margin-left: 810px;
+      box-shadow: 5px 20px 10px 10px #CDCDCD;
+      border: 1px solid rgba(0, 0, 0, .2);
+      background: purple;
+
+  }
+  #boox{
+    position: absolute;
+    padding: 20px;
+    width: 770px;
+      height: 220px;
+      margin-top: 350px;
+
+      box-shadow: 5px 20px 10px 10px #CDCDCD;
+      border: 1px solid rgba(0, 0, 0, .2);
+      background: white;}
+    #boox2{
+      position: absolute;
+      padding: 20px;
+      padding-top: 70px;
+      width: 250px;
+        height: 170px;
+        margin-top: 350px;
+        text-align: center;
+  margin-left: 810px;
+        box-shadow: 5px 20px 10px 10px #CDCDCD;
+        border: 1px solid rgba(0, 0, 0, .2);
+        background: purple;
+
+    }
+    form{
+      margin-top: 750px;
+    }
+    input {
+  width: 95%;
+}
+#subject {
+  float: right;
+  width: 75%;
+  margin-top: 6px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  margin-right: 65px;
+}
+#form{
+  position:absolute;
+  margin-top:-80px;
+  margin-left:490px;
+}
+#last{
+
+
+  background-color: #FFFACD;
+
+}
+input{
+  margin-top:20px;
+  margin-bottom: 20px;
+  margin-right: 40px;
+}
+  label{
+    padding:10px;
+  }
